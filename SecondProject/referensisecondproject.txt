@@ -1,0 +1,182 @@
+Breakthrough:
+
+#Tutorials1 How to setup cucumber selenium in eclipse
+
+https://www.youtube.com/watch?v=PlhpR7QgrYU
+
+#Tutorials 2 Cucumber steps definitation part2
+
+https://www.youtube.com/watch?v=bC7ijh42jWE
+
+#Tutorials 3 || What is hooks || Cucumber selenium || Part 3
+
+https://www.youtube.com/watch?v=zV_P7r4QclM
+
+#Tutorials 4 What is Scenario Outline || Cucumber Selenium
+
+https://www.youtube.com/watch?v=khB5Q8wH6jM
+
+#Tutorials 5 || What is background scenario || Cucumber Selenium
+
+https://www.youtube.com/watch?v=XhutBqXsxNk
+
+#Tutorials 6 Cucumber Junit Runner || Cucumber Selenium
+
+https://www.youtube.com/watch?v=blBrmW-wrxs
+
+#Tutorials 7 Cucumber TestNG Runner || Cucumber Selenium
+
+https://www.youtube.com/watch?v=3nIVM6R4Nc0
+
+#Tutorials 8 What is data table in cucumber || selenium cucumber
+
+https://www.youtube.com/watch?v=THv0seQoih8
+
+#Tutorials 9 Cucumber Selenium || Parallel execution
+
+https://www.youtube.com/watch?app=desktop&v=nAENK7OILVI
+
+
+
+Cucumber: Compare Data Tables using diff and equals method
+
+https://www.youtube.com/watch?v=A-3NrejWUp8
+
+testng multi browser
+
+https://www.youtube.com/results?search_query=testng+multi+browser
+
+Selenium Java TestNG Maven Best Automation Framework
+
+https://www.youtube.com/watch?v=8Gi6smxpU8g
+
+Cross browser testing using selenium | Run Selenium script on multiple browser | internet explorer
+
+https://www.youtube.com/watch?v=XYHrkiJ0_XM
+
+Selenium Cucumber Framework Setup with TestNG using Maven Project Part 3
+
+https://www.youtube.com/watch?app=desktop&v=jt-uaGgraCM
+
+
+Selenium Java TestNG Maven Best Automation Framework
+
+https://www.youtube.com/watch?app=desktop&v=8Gi6smxpU8g
+
+
+Jenkins:
+
+https://www.lambdatest.com/blog/jenkins-integration-with-selenium-webdriver/
+
+https://www.lambdatest.com/blog/jenkins-integration-with-selenium-webdriver/
+
+https://www.shellhacks.com/jenkins-default-password-username/
+
+https://www.google.com/search?q=username+password+jenkins&sxsrf=APq-WBttgfUGlm5YEncYMTM6Ur1LlGQRrQ%3A1646053090300&source=hp&ei=4sYcYvumD6OcseMPmeOX2Ao&iflsig=AHkkrS4AAAAAYhzU8usjGsKGyLH08tgHjaY4EAV1JOMp&ved=0ahUKEwj7n-fNuaL2AhUjTmwGHZnxBasQ4dUDCAY&uact=5&oq=username+password+jenkins&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEMsBMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIABBDOggIABCABBCxAzoLCAAQgAQQsQMQgwE6BQgAEIAEOgoIABCxAxCDARAKOggILhCABBCxA1AAWKAgYPAhaABwAHgAgAGnAYgBnBGSAQQxOC42mAEAoAEB&sclient=gws-wiz
+
+https://stackoverflow.com/questions/15227305/what-is-the-default-jenkins-password
+
+https://askubuntu.com/questions/849253/how-to-get-username-and-password-for-recently-installed-jenkins
+
+https://stackoverflow.com/questions/15227305/what-is-the-default-jenkins-password
+
+https://stackoverflow.com/questions/10805946/jenkins-auto-created-user-account-how-to-login-change-password
+
+https://stackoverflow.com/questions/14950408/how-to-install-a-plugin-in-jenkins-manually
+
+https://www.jenkins.io/doc/book/managing/plugins/
+
+C:\Program Files\Java\jdk1.8.0_181
+
+https://stackoverflow.com/questions/64359564/error-java-home-is-not-set-and-no-java-command-could-be-found-in-your-flutter
+
+
+Run testng(success breakthrough)(Run Selenium TestNG with Maven from Command Line):
+
+https://www.youtube.com/results?search_query=command+line+testng
+
+https://www.youtube.com/watch?v=jOd04v0AdV0
+
+https://www.youtube.com/watch?v=vjSQpEggrFs
+
+https://stackoverflow.com/questions/29555130/how-do-i-run-my-selenium-tests-with-jenkins-maven
+
+https://www.google.com/search?q=mvn+clean+test+jenkins&source=hp&ei=fCEvYqK3GqOcmgfexr9I&iflsig=AHkkrS4AAAAAYi8vjJiMLTeB1EGTQdCULjSPnS6Kx09k&ved=0ahUKEwii5dPFusX2AhUjjuYKHV7jDwkQ4dUDCAY&uact=5&oq=mvn+clean+test+jenkins&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEBM6BAgAEEM6CAgAEIAEELEDOgsILhCABBCxAxCDAToLCAAQgAQQsQMQgwE6CAguEIAEELEDOggILhCxAxCDAToFCAAQgAQ6BwgAELEDEEM6BggAEAoQQzoHCAAQgAQQCjoGCAAQFhAeOggIABAWEAoQHlAAWNkZYI0baABwAHgAgAFYiAHuDJIBAjIymAEAoAEB&sclient=gws-wiz
+
+https://stackoverflow.com/questions/42847732/how-to-run-testng-xml-from-maven-command-line
+
+https://www.google.com/search?q=mvn+clean+testng&ei=sCEvYvmVD-vfz7sP2ey9kAc&ved=0ahUKEwj5ra7eusX2AhXr73MBHVl2D3IQ4dUDCA0&uact=5&oq=mvn+clean+testng&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yCAgAEAgQDRAeOgcIABBHELADOgcIABCwAxBDOgQIABANOgYIABANEB5KBAhBGABKBAhGGABQ8gFY8QJg0gRoAXAAeACAAVqIAagBkgEBMpgBAKABAcgBCcABAQ&sclient=gws-wiz
+
+https://stackoverflow.com/questions/48978243/running-specific-testng-suites-with-maven-via-command-line
+
+
+Run testng from command line(failed):
+
+https://www.tutorialspoint.com/testng-error-cannot-find-class-in-classpath-using-selenium
+
+https://stackoverflow.com/questions/11896791/how-to-run-testng-from-command-line
+
+https://stackoverflow.com/questions/7600898/testng-error-cannot-find-class-in-classpath
+
+https://www.google.com/search?q=Cannot+find+class+in+classpath%3A+com.runner.TestNgRunner&source=hp&ei=xAsvYpujA8bm2roP8vau4Ac&iflsig=AHkkrS4AAAAAYi8Z1EZwABr9SRw6cVbcdufwI8hQODfu&ved=0ahUKEwiblaHqpcX2AhVGs1YBHXK7C3wQ4dUDCAY&uact=5&oq=Cannot+find+class+in+classpath%3A+com.runner.TestNgRunner&gs_lcp=Cgdnd3Mtd2l6EAMyCAgAEBYQChAeUABYAGDJAWgAcAB4AIABdYgBdZIBAzAuMZgBAKABAqABAQ&sclient=gws-wiz
+
+https://stackoverflow.com/questions/25737127/how-to-run-testng-with-command-line
+
+https://www.google.com/search?q=run+testng.xml+from+command+line&source=hp&ei=-gsvYv7HDtvl2roPssi64Ac&iflsig=AHkkrS4AAAAAYi8aCgZrp02cz3SuarD8xhCROYhnyftJ&oq=run+testng.xml+&gs_lcp=Cgdnd3Mtd2l6EAMYADIECAAQEzIECAAQEzIECAAQEzIECAAQEzIECAAQEzIECAAQEzIECAAQEzIICAAQFhAeEBMyCAgAEBYQHhATMggIABAWEB4QEzoICAAQgAQQsQM6CwguEIAEELEDEIMBOg4ILhCABBCxAxCDARDUAjoFCAAQgAQ6CAguELEDEIMBOg4ILhCABBCxAxDHARDRAzoLCAAQgAQQsQMQgwE6BAgAEEM6CAguEIAEELEDOggILhCABBDUAjoFCC4QgAQ6BAguEEM6BggAEBYQHkoFCEASATFQAFjPFGDSHWgAcAB4AIABdIgBsQmSAQQxNC4xmAEAoAEB&sclient=gws-wiz
+
+https://www.youtube.com/results?search_query=command+line+testng
+
+https://www.youtube.com/watch?v=fQUzNflGnWo
+
+https://www.youtube.com/watch?v=WojKMBgrtlE
+
+https://www.youtube.com/results?search_query=command+line+testng
+
+https://stackoverflow.com/questions/43094008/cannot-find-class-in-classpath-when-trying-to-run-testng-from-the-main-method
+
+https://www.google.com/search?q=%5BTestNG%5D+%5BERROR%5D+Cannot+find+class+in+classpath%3A+com.runner.TestNgRunner+command+line&ei=JwovYtKHB6bdz7sPy7-LEA&ved=0ahUKEwiSt62lpMX2AhWm7nMBHcvfAgIQ4dUDCA0&uact=5&oq=%5BTestNG%5D+%5BERROR%5D+Cannot+find+class+in+classpath%3A+com.runner.TestNgRunner+command+line&gs_lcp=Cgdnd3Mtd2l6EANKBAhBGAFKBAhGGABQxgFYoBVgjxdoAXAAeAGAAfABiAH9C5IBBjAuMTIuMZgBAKABAcABAQ&sclient=gws-wiz
+
+https://www.google.com/search?q=%5BTestNG%5D+%5BERROR%5D+Cannot+find+class+in+classpath%3A+com.runner.TestNgRunner&source=hp&ei=JQovYp7XNqSk2roPk-yc2Ac&iflsig=AHkkrS4AAAAAYi8YNjpLn_7AcY9EdyWJJKmwyd6uMD_M&ved=0ahUKEwje_eKkpMX2AhUkklYBHRM2B3sQ4dUDCAY&uact=5&oq=%5BTestNG%5D+%5BERROR%5D+Cannot+find+class+in+classpath%3A+com.runner.TestNgRunner&gs_lcp=Cgdnd3Mtd2l6EANQAFgAYPUBaABwAHgAgAGFAYgBhQGSAQMwLjGYAQCgAQKgAQE&sclient=gws-wiz
+
+https://www.google.com/search?q=cannot+find+class+in+classpath&source=hp&ei=2RYvYuamHP3n2roP5Jyl4Ac&iflsig=AHkkrS4AAAAAYi8k6SbEJU2JCQqSOiRRsoj7dGOo9J5y&oq=cannot+find+class&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCAAQgAQyBQgAEIAEMgUIABCABDIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIABBDOggIABCABBCxAzoOCC4QgAQQsQMQxwEQ0QM6BQgAELEDOgUILhCABDoLCAAQgAQQsQMQgwE6DgguEIAEELEDEMcBEKMCOggILhCxAxCDAToLCC4QgAQQsQMQ1AI6DQguELEDEMcBEKMCEAo6BAgAEApKBQhAEgExUABYnRZg6h1oAHAAeACAAfwBiAG8CpIBBjE2LjAuMZgBAKABAQ&sclient=gws-wiz
+
+https://stackoverflow.com/questions/62051370/i-am-getting-error-exception-in-thread-main-org-testng-testngexception-cannot
+
+https://www.google.com/search?q=Cannot+load+class+from+file&source=hp&ei=ZRkvYvWzHsWf-Ab7opaYCA&iflsig=AHkkrS4AAAAAYi8ndd_e_9z6IYd9O2eTKay2Pwc9hjPz&ved=0ahUKEwi1-pPqssX2AhXFD94KHXuRBYMQ4dUDCAY&uact=5&oq=Cannot+load+class+from+file&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEBMyBAgAEBMyCAgAEBYQHhATMggIABAWEB4QEzIICAAQFhAeEBMyCAgAEBYQHhATMggIABAWEB4QEzIICAAQFhAeEBMyCAgAEBYQHhATMggIABAWEB4QE1AAWABgmQRoAHAAeACAAV6IAV6SAQExmAEAoAECoAEB&sclient=gws-wiz
+
+https://stackoverflow.com/questions/11939310/why-am-i-getting-a-cant-load-class-when-the-class-is-in-my-jar-file
+
+https://stackoverflow.com/questions/43094008/cannot-find-class-in-classpath-when-trying-to-run-testng-from-the-main-method
+
+https://www.google.com/search?q=Exception+in+thread+%22main%22+org.testng.TestNGException%3A+Cannot+load+class+from+file%3A&source=hp&ei=sBkvYvmDLo_zhwPnzpyQCQ&iflsig=AHkkrS4AAAAAYi8nwDUO9iAsUWUS9AS0xZY9ligCdlVE&ved=0ahUKEwj5m4WOs8X2AhWP-WEKHWcnB5IQ4dUDCAY&uact=5&oq=Exception+in+thread+%22main%22+org.testng.TestNGException%3A+Cannot+load+class+from+file%3A&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEBYQHlAAWABg1wFoAHAAeACAAV6IAV6SAQExmAEAoAECoAEB&sclient=gws-wiz
+
+https://stackoverflow.com/questions/25543910/error-org-testng-testngexception-cannot-find-class-in-classpath-empclass
+
+https://stackoverflow.com/questions/11896791/how-to-run-testng-from-command-line
+
+https://www.google.com/search?q=run+testng+xml+from+command+line&sxsrf=APq-WBvGwFnC6q72y8wGZPKrtQQos3ktQw%3A1647247172161&source=hp&ei=RP8uYuGMB6OC1e8P2qqK8AQ&iflsig=AHkkrS4AAAAAYi8NVNzz5UUZnalD-4z3FY50eHN7YPgf&oq=run+testng+xm&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgYIABANEB4yBggAEA0QHjoECCMQJzoGCCMQJxATOggIABCABBCxAzoLCC4QgAQQsQMQgwE6DgguEIAEELEDEIMBENQCOgUIABCABDoICC4QsQMQgwE6BAgAEEM6CwgAEIAEELEDEIMBOggILhCABBCxAzoICC4QgAQQ1AI6BQguEIAEOgQILhBDOgUILhDLAToGCAAQFhAeUABYshNgyxtoAHAAeACAAb0BiAH-CZIBBDEwLjOYAQCgAQE&sclient=gws-wiz
+
+https://stackoverflow.com/questions/28889245/error-could-not-find-or-load-main-class-org-testng-testng
+
+https://www.google.com/search?q=Could+not+find+or+load+main+class+org.testng.TestNG&sxsrf=APq-WBvIE5Ua7_3-jqRT5l0XYglkHf9k_A%3A1647247249013&source=hp&ei=kP8uYuS3O4rmhwO3_Jq4Bg&iflsig=AHkkrS4AAAAAYi8NoXK_chLNOZzf3lF6dKZJ2MnQkj-z&ved=0ahUKEwjkv4eZmsX2AhUK82EKHTe-BmcQ4dUDCAY&uact=5&oq=Could+not+find+or+load+main+class+org.testng.TestNG&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEMsBMgUIABDLATIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB5QAFgAYMUCaABwAHgAgAHbAYgB2wGSAQMyLTGYAQCgAQKgAQE&sclient=gws-wiz
+
+https://stackoverflow.com/questions/30112390/jni-error-has-occurred-please-check-your-installation
+
+https://www.google.com/search?q=+A+JNI+error+has+occurred%2C+please+check+your+installation+and+try+again+Exception+in+thread+%22main%22+java.lang.NoClassDefFoundError%3A&sxsrf=APq-WBtpcTIl2nNx4QeIn0VNrfp6IRvleA%3A1647247801389&ei=uQEvYtqqF82o3LUPwfa6yAU&ved=0ahUKEwia67ugnMX2AhVNFLcAHUG7DlkQ4dUDCA0&uact=5&oq=+A+JNI+error+has+occurred%2C+please+check+your+installation+and+try+again+Exception+in+thread+%22main%22+java.lang.NoClassDefFoundError%3A&gs_lcp=Cgdnd3Mtd2l6EAMyBwgjEOoCECcyBwgjEOoCECcyBwguEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECcyBwgjEOoCECdKBAhBGABKBAhGGABQAFiKAmDyBWgBcAF4AIABAIgBAJIBAJgBAKABAaABArABCsABAQ&sclient=gws-wiz
+
+https://www.google.com/search?q=A+JNI+error+has+occurred%2C+please+check+your+installation+and+try+again&sxsrf=APq-WBsf7NKNF5bchgucexH6gBtrCUzv7A%3A1647247800576&source=hp&ei=uAEvYonSIPDh2roPrsqF4Ac&iflsig=AHkkrS4AAAAAYi8PyEcMv7-OokSQ3dRdri3rfeBA2LyT&ved=0ahUKEwiJjoignMX2AhXwsFYBHS5lAXwQ4dUDCAY&uact=5&oq=A+JNI+error+has+occurred%2C+please+check+your+installation+and+try+again&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBUABYAGDDAmgAcAB4AIAB1wGIAdcBkgEDMi0xmAEAoAECoAEB&sclient=gws-wiz
+
+http://www.java2s.com/Code/Jar/j/Downloadjcommander17jar.htm
+
+https://stackoverflow.com/questions/31539660/running-testng-in-command-line-fail
+
+https://www.google.com/search?q=command+line+testng+fail&sxsrf=APq-WBuY-a96A3EkgfaAPZ57iLvyAWT2PQ%3A1647249896042&source=hp&ei=6AkvYpRHleTaug--lqjgBw&iflsig=AHkkrS4AAAAAYi8X-LwoFFLl-IHBfxgJlCz6wPhdt_1M&ved=0ahUKEwiU26GHpMX2AhUVslYBHT4LCnwQ4dUDCAY&uact=5&oq=command+line+testng+fail&gs_lcp=Cgdnd3Mtd2l6EAMyCAgAEAgQDRAeMggIABAIEA0QHjIICAAQCBANEB46BAgjECc6BggjECcQEzoICAAQgAQQsQM6CwguEIAEELEDEIMBOg4ILhCABBCxAxDHARDRAzoLCAAQgAQQsQMQgwE6BAgAEEM6BQgAEIAEOgoIABCABBCxAxAKOg4ILhCABBCxAxDHARCjAjoHCC4Q1AIQQzoECC4QQzoKCC4QsQMQ1AIQQzoFCAAQsQM6BQgAEMsBOgQIABANOgYIABANEB46BggAEBYQHjoECAAQEzoICAAQDRAeEBM6CAgAEBYQHhATOggIIRAWEB0QHlAAWK82YOw8aABwAHgAgAG8AYgBvBOSAQQxNS45mAEAoAEB&sclient=gws-wiz
+
+https://sqa.stackexchange.com/questions/36014/org-testng-testngexception-cannot-find-class-in-classpath-com-facebook-qa-test
+
+https://stackoverflow.com/questions/33608934/maven-mvn-test-gives-error-cannot-find-class-in-classpath
+
+
+
+
+
