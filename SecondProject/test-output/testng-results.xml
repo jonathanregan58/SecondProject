@@ -2,19 +2,19 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="15258" started-at="2022-03-29T12:32:33 ICT" finished-at="2022-03-29T12:32:49 ICT">
+  <suite name="Suite" duration-ms="15043" started-at="2022-03-29T17:51:30 ICT" finished-at="2022-03-29T17:51:46 ICT">
     <groups>
       <group name="cucumber">
         <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestNgRunner@31f924f5]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test name="ChromeTest" duration-ms="15258" started-at="2022-03-29T12:32:33 ICT" finished-at="2022-03-29T12:32:49 ICT">
+    <test name="ChromeTest" duration-ms="15043" started-at="2022-03-29T17:51:30 ICT" finished-at="2022-03-29T17:51:46 ICT">
       <class name="com.runner.TestNgRunner">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.runner.TestNgRunner@31f924f5]" name="setUpClass" is-config="true" duration-ms="502" started-at="2022-03-29T12:32:33 ICT" finished-at="2022-03-29T12:32:34 ICT">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.runner.TestNgRunner@31f924f5]" name="setUpClass" is-config="true" duration-ms="502" started-at="2022-03-29T17:51:30 ICT" finished-at="2022-03-29T17:51:31 ICT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.runner.TestNgRunner@31f924f5]" name="setup" is-config="true" duration-ms="2767" started-at="2022-03-29T12:32:34 ICT" finished-at="2022-03-29T12:32:37 ICT">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.runner.TestNgRunner@31f924f5]" name="setup" is-config="true" duration-ms="3418" started-at="2022-03-29T17:51:31 ICT" finished-at="2022-03-29T17:51:34 ICT">
           <params>
             <param index="0">
               <value>
@@ -25,7 +25,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestNgRunner@31f924f5]" name="runScenario" duration-ms="11198" started-at="2022-03-29T12:32:37 ICT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-29T12:32:48 ICT">
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestNgRunner@31f924f5]" name="runScenario" duration-ms="10290" started-at="2022-03-29T17:51:34 ICT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-29T17:51:45 ICT">
           <params>
             <param index="0">
               <value>
@@ -41,11 +41,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.runner.TestNgRunner@31f924f5]" name="teardown" is-config="true" duration-ms="671" started-at="2022-03-29T12:32:48 ICT" finished-at="2022-03-29T12:32:48 ICT">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.runner.TestNgRunner@31f924f5]" name="teardown" is-config="true" duration-ms="705" started-at="2022-03-29T17:51:45 ICT" finished-at="2022-03-29T17:51:45 ICT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.runner.TestNgRunner@31f924f5]" name="tearDownClass" is-config="true" duration-ms="85" started-at="2022-03-29T12:32:48 ICT" finished-at="2022-03-29T12:32:49 ICT">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.runner.TestNgRunner@31f924f5]" name="tearDownClass" is-config="true" duration-ms="92" started-at="2022-03-29T17:51:45 ICT" finished-at="2022-03-29T17:51:46 ICT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
