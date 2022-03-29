@@ -8,11 +8,27 @@ import org.testng.Assert;
 
 import com.runner.TestNgRunner;
 import com.runner.WebDriverFactory;
+//import com.runner.Screenshot;
 
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+
+import java.io.File;
+import java.io.IOException;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+
+
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+
 public class StepsDefinitation extends TestNgRunner {
 
 	//public static void main(String[] args) {
@@ -24,6 +40,17 @@ public class StepsDefinitation extends TestNgRunner {
 	public void i_am_on_login_page() {
 	    // Write code here that turns the phrase above into concrete actions
 	    WebDriverFactory.getDriver().navigate().to("https://opensource-demo.orangehrmlive.com/index.php/dashboard");
+	   // Screenshot.setupScreenshot(System.currentTimeMillis());
+	    long ms = System.currentTimeMillis();
+	    		//"Halo2";
+	    File scrFile = ((TakesScreenshot)WebDriverFactory.getDriver()).getScreenshotAs(OutputType.FILE);
+
+	    try {
+	    FileUtils.copyFile(scrFile, new File("C:\\Users\\user\\git\\SecondProjectRepo\\SecondProject\\src\\test\\java\\com\\runner\\Screenshots\\" + ms + ".png"));
+	    } catch (IOException e) {
+	    // TODO Auto-generated catch block
+	    e.printStackTrace();
+	    }
 	}
 
 	

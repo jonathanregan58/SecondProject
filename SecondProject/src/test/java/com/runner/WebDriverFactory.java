@@ -13,7 +13,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class WebDriverFactory {
 	
-	private static ThreadLocal<WebDriver> webdriver = new ThreadLocal<WebDriver>();
+	public static ThreadLocal<WebDriver> webdriver = new ThreadLocal<WebDriver>();
 
 	public static void setupDriver(String browser) {
 		WebDriver driver = null;
