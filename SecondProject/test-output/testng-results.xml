@@ -1,55 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="15043" started-at="2022-03-29T17:51:30 ICT" finished-at="2022-03-29T17:51:46 ICT">
+  <suite name="Suite" duration-ms="31020" started-at="2022-04-13T16:09:14 ICT" finished-at="2022-04-13T16:09:45 ICT">
     <groups>
-      <group name="cucumber">
-        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestNgRunner@31f924f5]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
-      </group> <!-- cucumber -->
     </groups>
-    <test name="ChromeTest" duration-ms="15043" started-at="2022-03-29T17:51:30 ICT" finished-at="2022-03-29T17:51:46 ICT">
-      <class name="com.runner.TestNgRunner">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.runner.TestNgRunner@31f924f5]" name="setUpClass" is-config="true" duration-ms="502" started-at="2022-03-29T17:51:30 ICT" finished-at="2022-03-29T17:51:31 ICT">
+    <test name="Test" duration-ms="31020" started-at="2022-04-13T16:09:14 ICT" finished-at="2022-04-13T16:09:45 ICT">
+      <class name="com.tests.OrangeHRMTest2">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.tests.OrangeHRMTest2@727803de]" name="beforeSuite" is-config="true" duration-ms="174" started-at="2022-04-13T16:09:13 ICT" finished-at="2022-04-13T16:09:14 ICT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.runner.TestNgRunner@31f924f5]" name="setup" is-config="true" duration-ms="3418" started-at="2022-03-29T17:51:31 ICT" finished-at="2022-03-29T17:51:34 ICT">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.OrangeHRMTest2@727803de]" name="setup" is-config="true" duration-ms="12371" started-at="2022-04-13T16:09:14 ICT" finished-at="2022-04-13T16:09:26 ICT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.TestNgRunner@31f924f5]" name="runScenario" duration-ms="10290" started-at="2022-03-29T17:51:34 ICT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-29T17:51:45 ICT">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA["Title of your scenario"]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA["Optional[Login Functionality]"]]>
-              </value>
-            </param>
-          </params>
+        <test-method status="PASS" signature="loginPageTest()[pri:0, instance:com.tests.OrangeHRMTest2@727803de]" name="loginPageTest" duration-ms="89" started-at="2022-04-13T16:09:26 ICT" finished-at="2022-04-13T16:09:26 ICT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- runScenario -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.runner.TestNgRunner@31f924f5]" name="teardown" is-config="true" duration-ms="705" started-at="2022-03-29T17:51:45 ICT" finished-at="2022-03-29T17:51:45 ICT">
+        </test-method> <!-- loginPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.OrangeHRMTest2@727803de]" name="tearDown" is-config="true" duration-ms="227" started-at="2022-04-13T16:09:26 ICT" finished-at="2022-04-13T16:09:26 ICT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- teardown -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.runner.TestNgRunner@31f924f5]" name="tearDownClass" is-config="true" duration-ms="92" started-at="2022-03-29T17:51:45 ICT" finished-at="2022-03-29T17:51:46 ICT">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.OrangeHRMTest2@727803de]" name="setup" is-config="true" duration-ms="6474" started-at="2022-04-13T16:09:26 ICT" finished-at="2022-04-13T16:09:33 ICT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- tearDownClass -->
-      </class> <!-- com.runner.TestNgRunner -->
-    </test> <!-- ChromeTest -->
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.tests.OrangeHRMTest2@727803de]" name="loginTest" duration-ms="4795" started-at="2022-04-13T16:09:33 ICT" finished-at="2022-04-13T16:09:38 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.OrangeHRMTest2@727803de]" name="tearDown" is-config="true" duration-ms="49" started-at="2022-04-13T16:09:38 ICT" finished-at="2022-04-13T16:09:38 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.OrangeHRMTest2@727803de]" name="setup" is-config="true" duration-ms="6677" started-at="2022-04-13T16:09:38 ICT" finished-at="2022-04-13T16:09:44 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="sampleCase()[pri:0, instance:com.tests.OrangeHRMTest2@727803de]" name="sampleCase" duration-ms="1" started-at="2022-04-13T16:09:44 ICT" finished-at="2022-04-13T16:09:44 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleCase -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.OrangeHRMTest2@727803de]" name="tearDown" is-config="true" duration-ms="298" started-at="2022-04-13T16:09:44 ICT" finished-at="2022-04-13T16:09:45 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.tests.OrangeHRMTest2@727803de]" name="afterSuite" is-config="true" duration-ms="389" started-at="2022-04-13T16:09:45 ICT" finished-at="2022-04-13T16:09:45 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.tests.OrangeHRMTest2 -->
+    </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

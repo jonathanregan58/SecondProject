@@ -178,5 +178,40 @@ https://stackoverflow.com/questions/33608934/maven-mvn-test-gives-error-cannot-f
 
 
 
+Token Github:
+
+https://stackoverflow.com/questions/30421875/cant-connect-to-any-uri-error-while-commiting-code-from-eclipse-to-git-reposito
 
 
+Screenshot:
+
+http://makeseleniumeasy.com/2017/08/27/taking-screenshot-using-takesscreenshot-interface-in-selenium/
+
+https://stackoverflow.com/questions/44298345/how-to-capture-a-screenshot-after-each-step-in-tests-with-java-and-cucumber
+
+https://www.jdev.it/automatically-take-a-screenshot-on-failure-of-a-cucumber-scenario/
+
+https://www.google.com/search?q=screenshot+selenium+cucumber+library&sxsrf=APq-WBvzC-_t8UfebNX3K9U32qoVNj7gLA%3A1648539825539&ei=sbhCYp7EIKeb4t4PuaKQ8AE&ved=0ahUKEwje4Mu16er2AhWnjdgFHTkRBB4Q4dUDCA0&uact=5&oq=screenshot+selenium+cucumber+library&gs_lcp=Cgdnd3Mtd2l6EAMyBwgjELADECcyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsANKBAhBGABKBAhGGABQAFgAYLgRaAFwAXgAgAEAiAEAkgEAmAEAyAEJwAEB&sclient=gws-wiz
+
+https://www.edureka.co/community/2288/how-take-screenshots-in-bdd-cucumber-framework-in-selenium
+
+
+Cucumber Framework Selenium Tutorial-09 Add Screenshot into Extent Report for Each Steps
+
+https://www.youtube.com/watch?v=B7wTBsP3yC0
+
+
+Screenrecord:
+
+https://www.youtube.com/watch?v=Uteg0M_mPwU
+
+https://www.youtube.com/watch?v=-rWG_jQnLCY
+
+https://stackoverflow.com/questions/56525368/java-video-automatic-recoding-does-not-working-as-expected
+
+http://roadtoautomation.blogspot.com/2013/03/screen-recording-video-of-java-webdiver.html
+
+
+Screenshot,Logs,Reports,Properties File playlist
+
+https://www.youtube.com/playlist?list=PLsGOlyTzNH6fE292atkXaFiNUjfInS0_K
