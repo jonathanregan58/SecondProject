@@ -215,3 +215,8 @@ http://roadtoautomation.blogspot.com/2013/03/screen-recording-video-of-java-webd
 Screenshot,Logs,Reports,Properties File playlist
 
 https://www.youtube.com/playlist?list=PLsGOlyTzNH6fE292atkXaFiNUjfInS0_K
+
+
+Git and GitHub playlist
+
+https://www.youtube.com/playlist?list=PLsGOlyTzNH6d_9FGrknsv7srPLxtf6EmN
